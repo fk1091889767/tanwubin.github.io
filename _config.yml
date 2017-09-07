@@ -1,1 +1,10 @@
-theme: jekyll-theme-slate
+markdown: kramdown 
+permalink: /:year/:month/:title 
+title: 谭武彬
+url: http://tanwubin.github.io
+subscribe: http://tanwubin.github.io/feed
+exclude: [ README.md, newpost.rb ]
+domain: tanwubin.github.io
+author: tanwubin
+email: brieftime@icloud.com
+safe: true
