@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+  <title>{{ page.title }}</title>
+  <meta name="author" content="{{ site.author }}"/>
+  <link rel="stylesheet" type="text/css" href="/assets/css/effector-wide.css">
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS for {{ site.title }}" href="/feed/">
+</head>
+
+  <div class="container">
+      <h1 class="sitename">
+           <a href="/" > <img src="/upload/image/headimg.png"
+         width="100"
+         height="100">	  </a>
+      </h1>
+      <div class="nav">
+<a href="/">主页</a>
+<a href="/archive/">存档</a>
+<a href="/links">链接</a>
+<a href="/tag">标签</a>
+<a href="/about">关于</a>
+<a href="/todo">TODO</a>
+<a href="/feed/">订阅</a>
+</div>
+{{ content }}
+
+</div>
+{% if page.url != "/" %}
+{% endif %}
+
+
+</body>
+</html>
