@@ -2,8 +2,8 @@
 layout: post
 title: 人工智能各学派认知观
 tags: 
-- bigdata
-- business
+- 人工智能
+- 学派
 status: publish
 type: post
 published: true
