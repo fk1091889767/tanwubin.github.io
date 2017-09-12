@@ -35,4 +35,8 @@ published: true
 上图中价值主张及右边区域为市场，左边区域为行业，市场与行业共同构成了商业模式。
 
 ---
-*Edit History:* 2017-9-12:first edit & publish
+*Edit History:* 
+
+2017-09-12:增加《商业模式新生代》插图
+
+2017-09-12:first edit & publish
