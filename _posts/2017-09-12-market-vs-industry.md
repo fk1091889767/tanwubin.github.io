@@ -4,6 +4,7 @@ title: 《如何测试商业模式》读书笔记：市场与行业
 tags: 
 - 读书笔记
 - 商业模式
+- 思维框架
 status: publish
 type: post
 published: true
@@ -36,6 +37,8 @@ published: true
 
 ---
 *Edit History:* 
+
+2017-09-16:增加tag-思维框架
 
 2017-09-12:增加《商业模式新生代》插图
 
