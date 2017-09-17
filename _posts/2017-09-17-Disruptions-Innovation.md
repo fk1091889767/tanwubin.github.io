@@ -4,6 +4,7 @@ title: 破坏性创新模型
 tags: 
 - 创新
 - 思维框架
+- 读书笔记
 status: publish
 type: post
 published: true
