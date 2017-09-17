@@ -2,4 +2,7 @@
 <article>
 <h1><a href="{{ page.url }}">{{ page.title }}</a> <small class="pull-right">{{ page.date | date:"%b %d, %Y" }}</small></h1>
 {{ content }}
+    <div class="wrapper">
+       <span class="label label-important">Permanent link </span> <a href=" http://tanwubin.github.io{{ page.url }}"> http://tanwubin.github.io{{ page.url }}</a><small class="pull-right">{{ page.date | date:"%b %d, %Y" }}</small>
+    </div>
 </article>
