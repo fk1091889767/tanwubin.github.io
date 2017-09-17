@@ -3,7 +3,6 @@ layout: post
 title: 人工智能各学派认知观
 tags: 
 - 人工智能
-- 学派
 status: publish
 type: post
 published: true
