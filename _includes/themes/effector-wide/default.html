@@ -25,14 +25,12 @@
 <a href="/feed/">订阅</a>
 </div>
 {{ content }}
-
+      <div class="wrapper">
+        <span class="label label-important">Permanent link </span> <a href=" http://tanwubin.github.io{{ page.url }}"> http://tanwubin.github.io{{ page.url }}</a><small class="pull-right">{{ page.date | date:"%b %d, %Y" }}</small>
+      </div>
 </div>
 {% if page.url != "/" %}
 {% endif %}
-
-<div class="wrapper">
-<span class="label label-important">Permanent link </span> <a href=" http://tanwubin.github.io{{ page.url }}"> http://tanwubin.github.io{{ page.url }}</a><small class="pull-right">{{ page.date | date:"%b %d, %Y" }}</small>
-</div>
 
 </body>
 </html>
