@@ -7,7 +7,7 @@ permalink: /todo/
 
 ## 最近在干嘛 #
 
-- 2017.09.14 亚马逊AWSome Day西安站(ToDo)
+- 2017.09.14 亚马逊AWSome Day西安站(Done)
 
 - 2017.09.15 自然语言处理NLP算法研究(Doing)
 
