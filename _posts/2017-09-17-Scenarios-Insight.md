@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 场景洞察
+title: 市场洞察之场景洞察
 tags: 
 - 思维框架
 - 市场洞察
@@ -17,7 +17,9 @@ published: true
 - Scenario type
 
   ![](/upload/image/scenarios-type.png)
-  
+
+- **场景洞察四步法**
+
 - Step 1：多样访谈 Interviews with scenario stakeholders at different levels within the company
 
   在研讨之前访谈各个层级，各个部门（研发、市场、管理层等等），内外部关键
