@@ -4,10 +4,8 @@ title: 链接
 permalink: /links/
 ---
 
-## 朋友们
+- Management
 
-
-## 论坛 ##
-
+  Gabriel Anderbjörk：http://gabriel.anderbjork.se/index.htm
 
 -------------
