@@ -7,6 +7,10 @@ permalink: /todo/
 
 ## 最近在干嘛 #
 
+- 2017.10.03 量化项目服务重构(ToDo)
+
+- 2017.10.01 量化项目上云(Done)
+
 - 2017.10.01 Machine Learning In Python(ToDo)
 
 - 2017.11.15 neo4j图形化数据库/NoSql数据库研究(ToDo)
@@ -21,4 +25,4 @@ permalink: /todo/
 
 - 2017.08.31 Django Restful架构实践(Done)
 
-- 2017.06.08 量化项目(Doing)
+- 2017.06.08 量化项目启动(Done)
