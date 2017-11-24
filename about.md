@@ -18,6 +18,7 @@ permalink: /about/
 
 - 哲学
 - 计算机
+- 无线电
 
 ## 培训 ##
 
@@ -38,6 +39,7 @@ permalink: /about/
 
 *Edit History:* 
 
+2017-11-24:update
 2017-09-12:publish
  
 
