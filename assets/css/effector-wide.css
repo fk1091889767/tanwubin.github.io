@@ -16,6 +16,8 @@ footer {
 }
 .nav>a {
      margin:  0px 20px 0px 0px;
+     color: #3f51b5;
+     font-size: large;
 }
 html {
     font-size: 100%;
@@ -401,7 +403,7 @@ text-shadow: 0 1px 0 #fff;
 
 .postsList li{
   list-style: none;
-  padding: 5px 3px;
+  padding: 10px 3px;
   margin: 0;
   border-bottom: 1px solid #eee;
 }
