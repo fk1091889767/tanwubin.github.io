@@ -6,7 +6,7 @@
  * effecotr-wide is the 99% same as effector, only it's better for displaying photos.
  */
 html, body {
-    background-color: #FFFFFF;
+    /*background-color: #FFFFFF;*/
 }
 footer, header, nav {
     display: block;
