@@ -7,6 +7,8 @@ permalink: /todo/
 
 ## 最近在干嘛 #
 
+- 2017.11.30 SDR研究(Based On USRP B210)(ToDo)
+
 - 2017.10.03 量化项目服务重构(Done)
 
 - 2017.10.01 量化项目上云(Done)
