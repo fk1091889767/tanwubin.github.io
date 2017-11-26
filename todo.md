@@ -7,6 +7,12 @@ permalink: /todo/
 
 ## 最近在干嘛 #
 
+- 2017.12.1 OpenBTS & OpenAirInterface(ToDo)
+
+- 2017.12.1 IBS(Indoor Building Solution)研究(ToDo)
+
+- 2017.11.30 Google GTA项目研究(ToDo)
+
 - 2017.11.30 SDR研究(Based On USRP B210)(ToDo)
 
 - 2017.10.03 量化项目服务重构(Done)
