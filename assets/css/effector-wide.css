@@ -413,12 +413,12 @@ text-shadow: 0 1px 0 #fff;
   float: right;
   font-size: 14px;
 }
-
+/*
 @media only screen and (max-width:768px) {
     .container {
     width:  auto;
     padding: 20px;
-}
+}*/
 .sitename {
     font-size: 24px;
     font-weight: bold;
