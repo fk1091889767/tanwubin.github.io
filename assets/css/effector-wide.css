@@ -358,7 +358,8 @@ text-shadow: 0 1px 0 #fff;
     margin-left: 1mm;
 }
 .label-important {
-    background-color: #b94a48;
+    /*background-color: #b94a48;*/
+    background-color: blue;
     margin-right: 2mm;
 }
 .label-warning {
@@ -409,8 +410,8 @@ text-shadow: 0 1px 0 #fff;
   border-bottom: 1px solid #eee;
 }
 .postsList li span{
-    color: #bbb;
-  float: right;
+    /*color: #bbb;
+  float: right;*/
   font-size: 14px;
 }
 /*
