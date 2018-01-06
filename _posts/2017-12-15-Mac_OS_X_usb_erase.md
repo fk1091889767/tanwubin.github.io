@@ -18,7 +18,7 @@ sudo diskutil eraseDisk FAT32 usb_name MBRFormat /dev/disk2
 ``````
 其中usb_name是格式化后的卷标。
 
-～～～
+>>>
 
 /dev/disk2是格式化的盘符
 

@@ -14,7 +14,7 @@ published: true
 hdituil:是一个Mac OS上面处理镜像文件的命令,可以对镜像文件进行制作，验证和转换等...
 我们知道DMG格式是Mac OS上常用的打包格式文件，需要把下载的Ubuntu安装文件（.iso）转换成(.dmg)格式的文件,方便在Mac OS上面进行操作，转换命令:
 
-～～～
+>>>
 
 ````
 cd Downloads/ 
