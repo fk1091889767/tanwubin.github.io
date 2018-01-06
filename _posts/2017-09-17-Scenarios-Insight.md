@@ -13,7 +13,10 @@ published: true
   A scenario, thus, is a given cluster of trends and proposed outcomes of the defined uncertainties. All scenarios are based on the same trends, but these are combined with different outcomes for the specified uncertainties. Hence all trends and uncertainties occur in all scenarios.
 
   ![](/upload/image/scenario.png)
-<more>
+
+~~~
+~~~
+
 - Scenario type
 
   ![](/upload/image/scenarios-type.png)
