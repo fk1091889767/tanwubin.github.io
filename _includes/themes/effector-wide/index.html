@@ -1,9 +1,8 @@
 <div class="wrapper">
 <ul class="postsList">
 {% for post in site.posts limit: 15%}
-<li>
+<li><span><img src="../../../upload/image/calendar.png" width="20px"/>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span>
     <a href="{{ post.url }}"><b>{{ post.title }}</b></a>
-    <span><img src="../../../upload/image/calendar.png" width="20px"/>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span>
     {{ post.excerpt }}
     <span class="label label-important"><a href="{{ post.url }}"> <font color="white">阅读全文</font></a></span>
 </li>
