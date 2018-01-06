@@ -13,7 +13,7 @@ published: true
 - 连接主义(connectionism),又称为仿生学派(bionicsism)或生理学派(physiologism)，其原理主要为神经网络及神经网络之间的连接机制与学习算法。
 - 行为主义(actionism)，又称进化主义(evolutionism)或控制论学派(cyberneticsism)，其原理为控制论及感知-动作型控制系统。
 
-excerpt_separator
+~~~
 
 **<u>人工智能各学派的认知观</u>**
 
