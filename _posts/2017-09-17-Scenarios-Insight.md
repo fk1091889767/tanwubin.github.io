@@ -14,8 +14,7 @@ published: true
 
   ![](/upload/image/scenario.png)
 
-~~~
-~~~
+～～～
 
 - Scenario type
 
