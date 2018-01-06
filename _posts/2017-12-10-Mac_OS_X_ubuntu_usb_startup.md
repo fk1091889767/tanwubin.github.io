@@ -110,7 +110,4 @@ sudo diskutil eject /dev/disk2
 
 如果出现弹出对话框：插入的磁盘在这台电脑上不可读，在上一步操作完成后，点击ignore即可。
 
-
-*Edit History:* 
-
-2017-12-10:first edit & publish
+---

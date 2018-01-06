@@ -45,8 +45,3 @@ published: true
   主动影响，指导战略，实时跟踪
   
 ---
-*Edit History:* 
-
-2017-09-24:Reinventing Brand Management with Scenarios and Competitive Intelligence,Gabriel Anderbjörk,2012(http://gabriel.anderbjork.se/docs/Reinventing%20brand%20management%20A.pdf)
-
-2017-09-24:first edit & publish

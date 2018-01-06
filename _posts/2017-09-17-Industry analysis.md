@@ -53,6 +53,3 @@ published: true
     - 选择行业典型／重要客户进行分析，是行业洞察自下而上分析的另一个视角
 
 ---
-*Edit History:* 
-
-2017-09-24:first edit & publish

@@ -36,8 +36,3 @@ published: true
 6、夜郎自大，怀疑外部专家观点
 
 ---
-*Edit History:* 
-
-2017-09-24:《狐狸与刺猬：专家的政治判断》
-
-2017-09-24:first edit & publish

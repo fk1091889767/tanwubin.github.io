@@ -40,8 +40,3 @@ published: true
 合性,是新市场破坏和低端破坏的结合
 
 ---
-*Edit History:* 
-
-2017-09-17:《创新者的解答》
-
-2017-09-17:first edit & publish

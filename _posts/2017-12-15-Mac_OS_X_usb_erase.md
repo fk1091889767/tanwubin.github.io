@@ -34,7 +34,4 @@ bps=512 spc=8 res=32 nft=2 mid=0xf8 spt=32 hds=255 hid=2 drv=0x80 bsec=15646718 
 Mounting disk
 Finished erase on disk2
 ````
-
-*Edit History:* 
-
-2017-12-15:tanwubin edit & publish
+---
