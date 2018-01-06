@@ -14,9 +14,7 @@ published: true
   
   市场细分方法参考：咨询公司（如Garter、IDC、Forrester、McKinsey）；
   行业权威排名（如银行业-The Banker排名；教育行业-全球大学2000强）；
-  当地政府的行业管理机构/行业协会
-
-\n\n
+  当地政府的行业管理机构/行业协会&nbsp;
 
   - 市场趋势评论
   

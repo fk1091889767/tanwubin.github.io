@@ -11,9 +11,7 @@ published: true
 
 - 符号主义(symbolicism),又称为逻辑主义(logicism)、心理学派(psychlogism)或计算机学派(computerism)，其原理主要为物理符号系统假设和有限合理性原理。
 - 连接主义(connectionism),又称为仿生学派(bionicsism)或生理学派(physiologism)，其原理主要为神经网络及神经网络之间的连接机制与学习算法。
-- 行为主义(actionism)，又称进化主义(evolutionism)或控制论学派(cyberneticsism)，其原理为控制论及感知-动作型控制系统。
-
-\n\n
+- 行为主义(actionism)，又称进化主义(evolutionism)或控制论学派(cyberneticsism)，其原理为控制论及感知-动作型控制系统。&nbsp;
 
 **<u>人工智能各学派的认知观</u>**
 
