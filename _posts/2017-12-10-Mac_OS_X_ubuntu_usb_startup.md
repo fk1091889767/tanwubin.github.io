@@ -17,7 +17,7 @@ hdituil:是一个Mac OS上面处理镜像文件的命令,可以对镜像文件�
 ````
 cd Downloads/ 
 ````
-
+~~~
 ````
 hdiutil convert -format UDRW -o ubuntu.iso ubuntu-17.04-desktop-amd64.iso
 ````
