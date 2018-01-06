@@ -13,15 +13,16 @@ published: true
 
 - diskutil
 
-````
+``````
 sudo diskutil eraseDisk FAT32 usb_name MBRFormat /dev/disk2
-````
+``````
 其中usb_name是格式化后的卷标。
 <more>
 /dev/disk2是格式化的盘符
 
 实际例子：
-````
+
+``````
 brieftime$ sudo diskutil eraseDisk FAT32 USB MBRFormat /dev/disk2
 Started erase on disk2
 Unmounting disk
@@ -33,5 +34,5 @@ Formatting disk2s1 as MS-DOS (FAT32) with name USB
 bps=512 spc=8 res=32 nft=2 mid=0xf8 spt=32 hds=255 hid=2 drv=0x80 bsec=15646718 bspf=15251 rdcl=2 infs=1 bkbs=6
 Mounting disk
 Finished erase on disk2
-````
+``````
 ---
