@@ -55,8 +55,8 @@ body {
     background:url(https://tanwubin.github.io/upload/image/sand.png);
 }
 a {
-/*    color: #F95B1F;  */
-    color: #000000;
+    color: #F95B1F;
+    /*color: #000000;*/
     text-decoration: none;
 }
 a:hover {
