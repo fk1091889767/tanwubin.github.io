@@ -61,7 +61,8 @@ a {
 }
 a:hover {
 /*    color: #A33B14;  */
-    color:#E91E63;
+    /*color:#E91E63;*/
+    color:blue;
     text-decoration: none;
 }
 a.label:hover {
