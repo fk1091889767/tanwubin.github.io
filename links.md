@@ -6,11 +6,10 @@ permalink: /links/
 
 - Management
 
-  Gabriel Anderbjörk:http://gabriel.anderbjork.se/index.htm
+  [Gabriel Anderbjörk](http://gabriel.anderbjork.se/index.htm)
   
   
 - AI
 
-  TensorFlow Install On Mac:https://www.tensorflow.org/install/install_mac
+  [TensorFlow Install On Mac](https://www.tensorflow.org/install/install_mac)
 
--------------

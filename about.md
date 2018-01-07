@@ -36,11 +36,6 @@ permalink: /about/
 
 - 邮件：brieftime@icloud.com
 
----
 
-*Edit History:* 
-
-2017-11-24:update
-2017-09-12:publish
  
 
