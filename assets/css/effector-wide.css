@@ -33,7 +33,7 @@ a:hover, a:active {
     outline: 0;
 }
 img {
-    max-width: 800px;
+    max-width: 600px;
     height: auto;
     border: 0;
     -ms-interpolation-mode: bicubic;
@@ -52,7 +52,7 @@ body {
     font-size: 15px;
     line-height: 30px;
     color: #555;
-    background:url(https://tanwubin.github.io/upload/image/sand.png);
+    /*background:url(https://tanwubin.github.io/upload/image/sand.png);*/
 }
 a {
     /*color: #F95B1F;*/
@@ -185,7 +185,7 @@ dd {
     margin-left: 14px;
 }
 hr {
-    margin: 30px 0;
+    margin: 15px 0;
     border: 0;
     border-top: 1px solid #bbbbbb;
 }
@@ -405,11 +405,12 @@ text-shadow: 0 1px 0 #fff;
     margin: 0px 0px 10px 0px;
 }
 
-.postsList li{
+/*.postsList li改为.postsList*/
+.postsList{
   list-style: none;
   padding: 10px 3px;
   margin: 0;
-  border-bottom: 1px solid #eee;
+  /*border-bottom: 1px solid #eee;*/
 }
 .postsList li span{
     /*color: #bbb;
