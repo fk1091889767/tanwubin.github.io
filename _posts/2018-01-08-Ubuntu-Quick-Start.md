@@ -12,7 +12,7 @@ Ubuntu的快捷方式都放在/usr/share/applications，首先在该目录下创
 ``````
 sudo gedit /usr/share/applications/Pycharm.desktop
 ``````
-然后输入以下内容，注意Exec和Icon需要找到正确的路径
+然后输入以下内容，注意Exec和Icon需要找到正确的路径&nbsp;
 
 ``````
 [Desktop Entry]
