@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我-About
+title: 关于-About
 permalink: /about/
 ---
 我思故我在，思考与总结是我终身的良师益友
