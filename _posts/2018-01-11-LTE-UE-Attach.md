@@ -5,9 +5,13 @@ tags:
 - 通信教程
 status: publish
 type: post
-published: false
+published: true
 ---
-总的流程如下图：
+4G网络接口示意图：
+
+![](/upload/image/4G-Net.jpeg)
+
+总的Attach流程如下图：
 
 ![](/upload/image/ue-attach.png)
 
