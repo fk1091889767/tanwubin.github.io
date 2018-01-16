@@ -1,15 +1,15 @@
 ---
 layout: page
-title: 茶市-About
-permalink: /about/
+title: 茶市-Market
+permalink: /market/
 ---
 ## 近日茶市 ##
-- 2018.1.16
 
-``````
-18年年中确定三大运营商5G频段划分。移动的4G-FDD牌照与5G牌照同时发放。
-``````
+- 茶期：2018.1.16
 
+- [联通还能活过5年吗？呵呵哒！！](http://www.txrjy.com/thread-1016220-1-1.html)
+- [作为运营商员工，感到悲哀，感到没有未来！](http://www.txrjy.com/thread-1016415-1-1.html)
+- [腾讯王卡：热闹是腾讯的,联通人什么也没有](http://www.txrjy.com/thread-1016307-1-1.html)
 ## 茶馆小二 ##
 <hr/>
 
@@ -20,7 +20,7 @@ permalink: /about/
 - 软件测试自动化及智能化实践探索及推行者
 - 看板文化推行者，基于看板的敏捷项目管理落地实践
 
-## 兴趣：
+## 兴趣 ##
 
 - 哲学
 - 计算机
