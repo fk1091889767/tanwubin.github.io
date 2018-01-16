@@ -7,11 +7,11 @@ permalink: /market/
 
 - 茶期：2018.1.16
 
-- [联通还能活过5年吗？呵呵哒！！](http://www.txrjy.com/thread-1016220-1-1.html)
-- [作为运营商员工，感到悲哀，感到没有未来！](http://www.txrjy.com/thread-1016415-1-1.html)
-- [腾讯王卡：热闹是腾讯的,联通人什么也没有](http://www.txrjy.com/thread-1016307-1-1.html)
+- <a href="http://www.txrjy.com/thread-1016220-1-1.html" target="_blank">联通还能活过5年吗？呵呵哒！！</a>
+- <a href="http://www.txrjy.com/thread-1016415-1-1.html" target="_blank">作为运营商员工，感到悲哀，感到没有未来！</a>
+- <a href="http://www.txrjy.com/thread-1016307-1-1.html" target="_blank">腾讯王卡：热闹是腾讯的,联通人什么也没有</a>
+
 ## 茶馆小二 ##
-<hr/>
 
 - 2013年从西安电子科技大学毕业，至今工作于华为
 - 擅长六西格玛持续改进
@@ -20,7 +20,7 @@ permalink: /market/
 - 软件测试自动化及智能化实践探索及推行者
 - 看板文化推行者，基于看板的敏捷项目管理落地实践
 
-## 兴趣 ##
+## 小二兴趣 ##
 
 - 哲学
 - 计算机
@@ -42,7 +42,7 @@ permalink: /market/
 
 - 邮件：brieftime@icloud.com
 
-- 茶店一角留言：https://tanwubin.github.io/talk/
+- 茶市留言(@tanwubin)：https://tanwubin.github.io/market/
  
 <div id="container"></div>
 
