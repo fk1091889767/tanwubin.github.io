@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 链接
+title: 友茶-Links
 permalink: /links/
 ---
 
@@ -20,3 +20,20 @@ permalink: /links/
 - Seven habits of effective text editing
 
   [http://www.moolenaar.net/habits.html](http://www.moolenaar.net/habits.html)
+  
+<div id="container"></div>
+
+<link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">
+<script src="/assets/gitment/node_modules/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  // id: '', // 可选。默认为 location.href
+  owner: 'tanwubin',
+  repo: 'tanwubin.github.io',
+  oauth: {
+    client_id: '60a184657a07c169db75',
+    client_secret: 'b467963644f43e9fe93d14a6d2d3fdac246e0f34',
+  },
+})
+gitment.render('container')
+</script>

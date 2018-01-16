@@ -1,6 +1,6 @@
 ---
 layout: nomath
-title: TODO
+title: 茶夫-ToDo
 permalink: /todo/
 ---
 
@@ -38,3 +38,20 @@ permalink: /todo/
 - 2017.08.31 Django Restful架构实践(Done)
 
 - 2017.06.08 量化项目启动(Done)
+
+<div id="container"></div>
+
+<link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">
+<script src="/assets/gitment/node_modules/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  // id: '', // 可选。默认为 location.href
+  owner: 'tanwubin',
+  repo: 'tanwubin.github.io',
+  oauth: {
+    client_id: '60a184657a07c169db75',
+    client_secret: 'b467963644f43e9fe93d14a6d2d3fdac246e0f34',
+  },
+})
+gitment.render('container')
+</script>
