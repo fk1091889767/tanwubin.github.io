@@ -138,6 +138,7 @@ mouse: enabled=0
 keyboard_mapping: enabled=1, map=/usr/local/share/bochs/keymaps/x11-pc-us.map
 ``````
 - Bochs启动
+
 ``````
 $ bochs
 ========================================================================
@@ -174,4 +175,5 @@ Next at t=0
 (0) [0x0000fffffff0] f000:fff0 (unk. ctxt): jmpf 0xf000:e05b          ; ea5be000f0
 <bochs:1> c
 ``````
+
 ![](/upload/image/boot.png)
