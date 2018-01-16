@@ -17,3 +17,6 @@ permalink: /links/
 
   [ftp://ftp.3gpp.org/Specs/archive/](ftp://ftp.3gpp.org/Specs/archive/)
 
+- Seven habits of effective text editing
+
+  [http://www.moolenaar.net/habits.html](http://www.moolenaar.net/habits.html)
