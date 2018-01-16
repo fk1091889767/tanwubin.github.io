@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于-About
+title: 茶市-About
 permalink: /about/
 ---
 ## 近日茶市 ##
@@ -11,6 +11,7 @@ permalink: /about/
 ``````
 
 ## 茶馆小二 ##
+<hr/>
 
 - 2013年从西安电子科技大学毕业，至今工作于华为
 - 擅长六西格玛持续改进
