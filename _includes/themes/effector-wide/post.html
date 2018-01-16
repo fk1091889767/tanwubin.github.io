@@ -9,6 +9,7 @@
 <h1><a href="{{ page.url }}">{{ page.title }}</a> </h1>
 {{ content }}
 </article>
+{% include themes/effector-wide/authorized.html %}
 
 <div id="container"></div>
 <link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">
@@ -26,7 +27,7 @@ var gitment = new Gitment({
 gitment.render('container')
 </script>
 
-{% include themes/effector-wide/authorized.html %}
+
 <!--
 <div class="wrapper">
 <span class="label label-important">Permanent link</span> <a href=" http://tanwubin.github.io{{ page.url }}"> http://tanwubin.github.io{{ page.url }}</a><small class="pull-right">{{ page.date | date:"%b %d, %Y" }}</small>
