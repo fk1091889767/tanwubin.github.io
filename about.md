@@ -3,9 +3,14 @@ layout: page
 title: 关于-About
 permalink: /about/
 ---
-我思故我在，思考与总结是我终身的良师益友
+## 近日茶市 ##
+- 2018.1.16
 
-## 关于自己 ##
+``````
+18年年中确定三大运营商5G频段划分。移动的4G-FDD牌照与5G牌照同时发放。
+``````
+
+## 茶馆小二 ##
 
 - 2013年从西安电子科技大学毕业，至今工作于华为
 - 擅长六西格玛持续改进
@@ -36,6 +41,21 @@ permalink: /about/
 
 - 邮件：brieftime@icloud.com
 
-
+- 茶店一角留言：https://tanwubin.github.io/talk/
  
+<div id="container"></div>
 
+<link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">
+<script src="/assets/gitment/node_modules/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  // id: '', // 可选。默认为 location.href
+  owner: 'tanwubin',
+  repo: 'tanwubin.github.io',
+  oauth: {
+    client_id: '60a184657a07c169db75',
+    client_secret: 'b467963644f43e9fe93d14a6d2d3fdac246e0f34',
+  },
+})
+gitment.render('container')
+</script>
