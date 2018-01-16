@@ -14,6 +14,7 @@ published: true
 总的Attach流程如下图：
 
 ![](/upload/image/ue-attach.png)
+图片：[UE Attach全流程](/upload/image/ue-attach.png)
 
 第一条消息：Initial UE Message，包含如下6个项目：&nbsp;
 
