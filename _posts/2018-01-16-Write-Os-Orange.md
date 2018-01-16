@@ -12,6 +12,7 @@ published: true
 安装时出现如下问题：
 
 - 配置
+
 ``````
 $ ./configure --enable-debugger --enable-disasm
 ``````
