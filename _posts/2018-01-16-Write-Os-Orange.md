@@ -71,6 +71,7 @@ The following line should appear in your bochsrc:
   floppya: image="a.img", status=inserted
 ``````
 - 引导扇区
+
 ``````
 	    org 07c00h ; 告诉编译器程序加载到7c00处
 	    mov ax, cs
@@ -92,6 +93,7 @@ times 510 - ($-$$) db 0 ; 填充剩下的空间，使生成的二进制代码恰
 dw 0xaa55 ; 结束标志
 ``````
 - 引导扇区编译
+
 ``````
 nasm boot.asm -o boot.bin
 ``````
@@ -101,6 +103,7 @@ tanwubin@tanwubin-NUC7i7BNH:~/Documents/OS-Orange/2.1.3$ ls
 a.img   bochsrc  boot.asm  boot.bin
 ``````
 - 将引导扇区写进软盘中
+
 ``````
 $ dd if=boot.bin of=a.img bs=512 count=1 conv=notrunc
 1+0 records in
