@@ -17,10 +17,14 @@ permalink: /links/
 
   [ftp://ftp.3gpp.org/Specs/archive/](ftp://ftp.3gpp.org/Specs/archive/)
 
-- Seven habits of effective text editing
+- TextEdit
 
-  [http://www.moolenaar.net/habits.html](http://www.moolenaar.net/habits.html)
+  [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
   
+  [Vim Help](http://vimcdoc.sourceforge.net/doc/help.html)
+  
+  [Vim IDE](https://www.cnblogs.com/zhangsf/archive/2013/06/13/3134409.html)
+
 <div id="container"></div>
 
 <link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">
