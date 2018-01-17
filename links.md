@@ -25,6 +25,10 @@ permalink: /links/
   [Cscope](http://cscope.sourceforge.net/) -
   [Ctags](http://ctags.sourceforge.net/)
   
+- Makefile
+
+  [Makefile经典教程](http://blog.csdn.net/ruglcc/article/details/7814546/)
+  
 <div id="container"></div>
 
 <link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">
