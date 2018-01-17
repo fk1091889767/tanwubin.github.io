@@ -72,9 +72,9 @@ The following line should appear in your bochsrc:
 ``````
 - 引导扇区
 
-``````
-	    org 07c00h ; 告诉编译器程序加载到7c00处
-	    mov ax, cs
+```
+	org 07c00h ; 告诉编译器程序加载到7c00处
+	mov ax, cs
         mov ds, ax
         mov es, ax
         call DispStr ; 调用显示字符串例程
@@ -91,7 +91,7 @@ DispStr:
 BootMessage: db "Hello,OS world!"
 times 510 - ($-$$) db 0 ; 填充剩下的空间，使生成的二进制代码恰好为512字节
 dw 0xaa55 ; 结束标志
-``````
+```
 - 引导扇区编译
 
 ``````
