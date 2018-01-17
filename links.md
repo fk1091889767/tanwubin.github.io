@@ -25,6 +25,10 @@ permalink: /links/
   
   [Vim IDE](https://www.cnblogs.com/zhangsf/archive/2013/06/13/3134409.html)
 
+  [Cscope](http://cscope.sourceforge.net/)
+  
+  [Ctags](http://ctags.sourceforge.net/)
+  
 <div id="container"></div>
 
 <link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">
