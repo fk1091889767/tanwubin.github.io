@@ -58,9 +58,11 @@ function fancyAlert(arg) {
 }
 ```
 
+{% highlight python %}
 def foo():
     if not bar:
         return True
+{% endhighlight %}
 
 # 表格
 First Header | Second Header
