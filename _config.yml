@@ -1,4 +1,6 @@
-markdown: kramdown 
+markdown: kramdown
+kramdown:
+  input: GFM
 permalink: /:year/:month/:title 
 title: 谭武彬
 url: http://tanwubin.github.io
