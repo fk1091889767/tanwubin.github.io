@@ -36,7 +36,7 @@ sudo make install
 
 创建一个软盘映像：
 ``````
-tanwubin:~/Documents/OS-Orange/2.1.3/bochs-2.6.9$ bximage 
+tanwubin@tanwubin:~/Documents/OS-Orange/2.1.3/bochs-2.6.9$ bximage 
 ========================================================================
                                 bximage
   Disk Image Creation / Conversion / Resize and Commit Tool for Bochs
@@ -99,7 +99,7 @@ nasm boot.asm -o boot.bin
 ``````
 当前目录下文件列表如下：
 ``````
-tanwubin@tanwubin-NUC7i7BNH:~/Documents/OS-Orange/2.1.3$ ls
+tanwubin@tanwubin:~/Documents/OS-Orange/2.1.3$ ls
 a.img   bochsrc  boot.asm  boot.bin
 ``````
 - 将引导扇区写进软盘中
