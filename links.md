@@ -19,10 +19,10 @@ permalink: /links/
 
 - TextEdit
 
-  [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)-
-  [Vim Help](http://vimcdoc.sourceforge.net/doc/help.html)-
-  [Vim IDE](https://www.cnblogs.com/zhangsf/archive/2013/06/13/3134409.html)-
-  [Cscope](http://cscope.sourceforge.net/)-
+  [Seven habits of effective text editing](http://www.moolenaar.net/habits.html) -
+  [Vim Help](http://vimcdoc.sourceforge.net/doc/help.html) -
+  [Vim IDE](https://www.cnblogs.com/zhangsf/archive/2013/06/13/3134409.html) -
+  [Cscope](http://cscope.sourceforge.net/) -
   [Ctags](http://ctags.sourceforge.net/)
   
 <div id="container"></div>
