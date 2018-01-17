@@ -32,11 +32,7 @@ permalink: /links/
 - 无线网络
 
   [OAI入门](blog.csdn.net/jxwxg/article/details/58130893) - 
-  [openairinterface5g](https://gitlab.eurecom.fr/oai/openairinterface5g)
-  
-- Blog
-
-  [jekyll](https://www.jekyll.com.cn)  
+  [openairinterface5g](https://gitlab.eurecom.fr/oai/openairinterface5g) 
   
 <div id="container"></div>
 
