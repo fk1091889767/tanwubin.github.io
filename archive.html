@@ -5,7 +5,7 @@ permalink: /archive/
 ---
 <div class="wrapper">
   {% capture post_year1 %}{{ 'now' | date: '%Y' }}{% endcapture %}
-
+<h2>{{ post_year1 }}</h2>
 <ul class="postsList">
 {% for post in site.posts %}
 {% capture post_year2 %}{{ post.date | date: '%Y' }}{% endcapture %}
