@@ -36,7 +36,7 @@ sudo make install
 
 创建一个软盘映像：
 ``````
-tanwubin:~/Documents/OS-Orange/2.1.3/bochs-2.6.9$ bximage 
+tanwubin@tanwubin:~/Documents/OS-Orange/2.1.3/bochs-2.6.9$ bximage 
 ========================================================================
                                 bximage
   Disk Image Creation / Conversion / Resize and Commit Tool for Bochs
@@ -72,9 +72,9 @@ The following line should appear in your bochsrc:
 ``````
 - 引导扇区
 
-``````
-	    org 07c00h ; 告诉编译器程序加载到7c00处
-	    mov ax, cs
+```
+	org 07c00h ; 告诉编译器程序加载到7c00处
+	mov ax, cs
         mov ds, ax
         mov es, ax
         call DispStr ; 调用显示字符串例程
@@ -91,7 +91,7 @@ DispStr:
 BootMessage: db "Hello,OS world!"
 times 510 - ($-$$) db 0 ; 填充剩下的空间，使生成的二进制代码恰好为512字节
 dw 0xaa55 ; 结束标志
-``````
+```
 - 引导扇区编译
 
 ``````
@@ -99,7 +99,7 @@ nasm boot.asm -o boot.bin
 ``````
 当前目录下文件列表如下：
 ``````
-tanwubin@tanwubin-NUC7i7BNH:~/Documents/OS-Orange/2.1.3$ ls
+tanwubin@tanwubin:~/Documents/OS-Orange/2.1.3$ ls
 a.img   bochsrc  boot.asm  boot.bin
 ``````
 - 将引导扇区写进软盘中

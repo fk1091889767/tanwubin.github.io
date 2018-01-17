@@ -5,7 +5,7 @@ permalink: /market/
 ---
 ## 近日茶市 ##
 
-- 茶期：2018.1.16
+- 茶期：2018.1.16，气候：阴
 
 - <a href="http://www.txrjy.com/thread-1016220-1-1.html" target="_blank">联通还能活过5年吗？呵呵哒！！</a>
 - <a href="http://www.txrjy.com/thread-1016415-1-1.html" target="_blank">作为运营商员工，感到悲哀，感到没有未来！</a>

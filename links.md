@@ -17,10 +17,22 @@ permalink: /links/
 
   [ftp://ftp.3gpp.org/Specs/archive/](ftp://ftp.3gpp.org/Specs/archive/)
 
-- Seven habits of effective text editing
+- TextEdit
 
-  [http://www.moolenaar.net/habits.html](http://www.moolenaar.net/habits.html)
+  [Seven habits of effective text editing](http://www.moolenaar.net/habits.html) -
+  [Vim Help](http://vimcdoc.sourceforge.net/doc/help.html) -
+  [Vim IDE](https://www.cnblogs.com/zhangsf/archive/2013/06/13/3134409.html) -
+  [Cscope](http://cscope.sourceforge.net/) -
+  [Ctags](http://ctags.sourceforge.net/)
   
+- Makefile
+
+  [Makefile经典教程](http://blog.csdn.net/ruglcc/article/details/7814546/)
+  
+- 无线网络
+
+  [OAI入门](blog.csdn.net/jxwxg/article/details/58130893) - 
+  [openairinterface5g](https://gitlab.eurecom.fr/oai/openairinterface5g)
 <div id="container"></div>
 
 <link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">
