@@ -49,7 +49,9 @@ published: true
 # 粗体
 **<u>test</u>**
 
-#语法高亮
+# 语法高亮
+- js
+
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -57,12 +59,13 @@ function fancyAlert(arg) {
   }
 }
 ```
+- python
 
-{% highlight python %}
+```python
 def foo():
     if not bar:
         return True
-{% endhighlight %}
+```
 
 # 表格
 First Header | Second Header
