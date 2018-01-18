@@ -16,6 +16,7 @@ published: true
 出现场景：
 
 > 1、打开gedit
+
 > 2、OAI运行./cmake_targets/lte_build_oai/build/lte-softmodem -O ~/opencells-mods/enb.10MHz.b200 -d
 
 解决方案：
