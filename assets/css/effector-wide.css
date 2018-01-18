@@ -52,7 +52,7 @@ body {
     /*font-size: 15px;*/
     line-height: 30px;
     color: #555;
-    /*background:url(https://tanwubin.github.io/upload/image/sand.png);*/
+    background:url(https://tanwubin.github.io/upload/image/sand.png);
 }
 a {
     /*color: #F95B1F;*/
@@ -411,7 +411,7 @@ span.label.label-important:hover {
 .wrapper  {
     /*background-color:  #fff;*/
     /* margin:  10px 0px 50px 0px; */
-    padding:  10px 0px;
+    padding:  10px 20px;
 }
 
 .postsList {
