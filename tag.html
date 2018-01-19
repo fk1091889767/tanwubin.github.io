@@ -5,12 +5,14 @@ permalink: /tag/
 ---
 <div class="wrapper">
 {% for tag in site.tags %}
+{% if tag[0] != "茶馆新闻" %}
 <a name="{{ tag | first }}"><h2>{{ tag | first }}</h2></a>
     <ul  class="unstyled">
     {% for post in tag.last %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
+{% endif %}
 {% endfor %}
 
 <div id="container"></div>
