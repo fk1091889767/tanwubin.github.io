@@ -5,7 +5,7 @@ permalink: /market/
 ---
 <div class="wrapper">
 {% for tag in site.tags %}
-{% if tag == "茶馆新闻" %}
+{% if tag == "teanews" %}
 <a name="{{ tag | first }}"><h2>{{ tag | first }}</h2></a>
     <ul  class="unstyled">
     {% for post in tag.last %}
