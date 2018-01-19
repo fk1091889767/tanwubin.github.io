@@ -3,14 +3,18 @@ layout: page
 title: 茶市-Market
 permalink: /market/
 ---
-## 近日茶市 ##
+<div class="wrapper">
+{% for tag in site.tags %}
+{% if tag == "茶馆新闻" %}
+<a name="{{ tag | first }}"><h2>{{ tag | first }}</h2></a>
+    <ul  class="unstyled">
+    {% for post in tag.last %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+{% endif %}
+{% endfor %}
 
-- 茶期：2018.1.16，气候：阴
-
-- <a href="http://www.txrjy.com/thread-1016220-1-1.html" target="_blank">联通还能活过5年吗？呵呵哒！！</a>
-- <a href="http://www.txrjy.com/thread-1016415-1-1.html" target="_blank">作为运营商员工，感到悲哀，感到没有未来！</a>
-- <a href="http://www.txrjy.com/thread-1016307-1-1.html" target="_blank">腾讯王卡：热闹是腾讯的,联通人什么也没有</a>
- 
 <div id="container"></div>
 
 <link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">
