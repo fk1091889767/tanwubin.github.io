@@ -8,7 +8,6 @@ permalink: /links/
 
   [Gabriel Anderbjörk](http://gabriel.anderbjork.se/index.htm)
   
-  
 - AI
 
   [TensorFlow Install On Mac](https://www.tensorflow.org/install/install_mac)
@@ -33,6 +32,10 @@ permalink: /links/
 
   [OAI入门](blog.csdn.net/jxwxg/article/details/58130893) - 
   [openairinterface5g](https://gitlab.eurecom.fr/oai/openairinterface5g) 
+
+- 科学技术
+
+  [科技部](http://www.most.gov.cn)
   
 <div id="container"></div>
 
