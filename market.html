@@ -9,7 +9,7 @@ permalink: /market/
 <!-- <a name="{{ tag | first }}"><h2>{{ tag | first }}</h2></a> -->
     <ul  class="unstyled">
     {% for post in tag.last %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ post.url }}">{{ post.title }}</a>------------------{{ post.date | date: "%b %d, %Y" }}</li>
     {% endfor %}
     </ul>
 {% endif %}
