@@ -7,6 +7,8 @@ permalink: /todo/
 
 ## 最近在干嘛 #
 
+- 2018.1.26 New Year Plan(重启连载、Iotaitech Plan、FSD、读书)(Doing)
+
 - 2018.1.11 LTE业务流解析(ToDo)
 
 - 2018.1.11 GDB调试指南(ToDo)
