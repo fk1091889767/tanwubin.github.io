@@ -28,10 +28,11 @@ permalink: /links/
 
   [Makefile经典教程](http://blog.csdn.net/ruglcc/article/details/7814546/)
   
-- 无线网络
+- 无线通信
 
   [OAI入门](blog.csdn.net/jxwxg/article/details/58130893) - 
-  [openairinterface5g](https://gitlab.eurecom.fr/oai/openairinterface5g) 
+  [openairinterface5g](https://gitlab.eurecom.fr/oai/openairinterface5g) -
+  [中国通信网](http://www.c114.com.cn/) 
 
 - 科学技术
 
