@@ -10,6 +10,10 @@ published: true
 > ctags
 
 使用命令 ctags -R * 递归生成标签文件,:tag xxx,即可找到你想找的函数或是数据结构或是函数xxx
+
+Ctrl+ ]跳到光标所在函数或者结构体的定义处
+
+Ctrl+ T返回查找或跳转
 &nbsp;
 >cscope
 
