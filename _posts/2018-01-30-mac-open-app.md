@@ -9,7 +9,7 @@ published: true
 ---
 打开终端，直接输入 open /Applications/xxx（应用的名称）.app 比如打开iTunes输入：open /Applications/iTunes.app   
 
->注意open之后需要空格再输入斜杠 / 
+>注意open之后需要空格再输入斜杠 /
 
 >open --help
 &nbsp;
