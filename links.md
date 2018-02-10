@@ -32,7 +32,8 @@ permalink: /links/
 
   [OAI入门](blog.csdn.net/jxwxg/article/details/58130893) - 
   [openairinterface5g](https://gitlab.eurecom.fr/oai/openairinterface5g) -
-  [中国通信网](http://www.c114.com.cn/) 
+  [中国通信网](http://www.c114.com.cn/) -
+  [open-cells](https://open-cells.com)
 
 - 科学技术
 
