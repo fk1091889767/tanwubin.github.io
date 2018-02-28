@@ -10,7 +10,8 @@ permalink: /links/
   
 - AI
 
-  [TensorFlow Install On Mac](https://www.tensorflow.org/install/install_mac)
+  [TensorFlow Install On Mac](https://www.tensorflow.org/install/install_mac) -
+  [Neuroph](http://neuroph.sourceforge.net/)
 
 - 3GPP规范
 
