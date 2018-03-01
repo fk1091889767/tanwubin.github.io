@@ -7,6 +7,8 @@ permalink: /todo/
 
 ## 最近在干嘛 #
 
+- 2018.3.15 ubuntu apache支持https技术文章翻译：1、https://certbot.eff.org/all-instructions/#ubuntu-16-04-xenial-apache 2、https://www.linuxbabe.com/ubuntu/https-apache-letsencrypt-ubuntu16-04-17-10
+
 - 2018.1.26 New Year Plan(重启连载、Iotaitech Plan、FSD、软件无线电、读书)(Doing)
 
 - 2018.1.11 LTE业务流解析(ToDo)
