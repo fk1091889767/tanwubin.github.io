@@ -20,6 +20,13 @@ permalink: /teawaiter/
 - 写作(小说、博客)
 - 技术发展史
 
+## 编程语言技能 ##
+
+- Python
+- PHP
+- Java
+- C/C++
+
 ## 培训 ##
 
 - TRIZ创新培训
