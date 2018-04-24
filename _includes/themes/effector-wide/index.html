@@ -17,23 +17,19 @@
 {% endfor %}
 {% if paginator.total_pages > 1 %}
 <!-- 分页代码 -->
+    <div class="pagination">
     {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"上一页</a>
-    {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <span class="active">{{ page }}</span>
-    {% elsif page == 1 %}
-      <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
     {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    <span class="previous">Previous</span>
     {% endif %}
-    {% endfor %}
-
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">下一页</a>
+    <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+    {% else %}
+    <span class="next ">Next</span>
     {% endif %}
+    </div>
 {% endif %}
 <li><a class="btn"  href="/archive/">更多-More</a>&nbsp;&nbsp; <a class="btn" href="/feed/" target="_blank">订阅-Subscribe</a></li>
 <br>
