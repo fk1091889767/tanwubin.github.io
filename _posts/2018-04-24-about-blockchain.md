@@ -1,8 +1,9 @@
 --- 
 layout: post
-title: 关于区块链，我想谈谈
+title: 关于区块链应用洞察的两个思路
 tags: 
 - 新技术
+- 区块链
 status: publish
 type: post
 published: true
