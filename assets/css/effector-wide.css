@@ -253,7 +253,7 @@ pre code{margin:1em 0;line-height:1.6;display:block;overflow:auto;}
 code{font-family:"Courier New","Microsoft YaHei",Consolas,monospace;font-size:14px;padding:0px 6px;}
 pre {
     display: block;
-    padding: 8px;  
+    padding: 8px;
     background-color: #f7f7f9;
     margin: 0 0 30px;
     line-height: 10px;
@@ -269,21 +269,21 @@ pre {
 th {
 text-align: left;
 padding: 5px 25px 3px;
-background-color: #eee;  
+background-color: #eee;
 border: 2px #eee;
 }
 
 td {
-padding: 0px 10px 0px; 
+padding: 0px 10px 0px;
 text-align: center;
-border-right-width: 2px;  
-border-bottom-width: 2px;  
-border-right-style: solid;  
-border-bottom-style: solid;  
-border-right-color: #eee;  
-border-bottom-color: #eee;  
+border-right-width: 2px;
+border-bottom-width: 2px;
+border-right-style: solid;
+border-bottom-style: solid;
+border-right-color: #eee;
+border-bottom-color: #eee;
 }
- 
+
 .prettyprint.linenums{
     -webkit-box-shadow:inset 40px 0 0 #fbfbfc,inset 41px 0 0 #ececf0;
     -moz-box-shadow:inset 40px 0 0 #fbfbfc,inset 41px 0 0 #ececf0;
@@ -292,7 +292,7 @@ border-bottom-color: #eee;
 /* Specify class=linenums on a pre to get line numbering */
 ol.linenums {
 margin: 0 0 0 33px; /* IE indents via margin-left */
-} 
+}
 ol.linenums li {
 padding-left: 12px;
 color: #bebec5;
@@ -423,6 +423,9 @@ span.label.label-important:hover {
 .postsList li .tags{
     float: left;
     margin-top: -28px;
+    padding: 1px 5px 1px;
+    border-radius: 3px;
+    background-color: #9aa6ea;
 }
 
 .postsList {
