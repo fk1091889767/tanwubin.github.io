@@ -420,6 +420,10 @@ span.label.label-important:hover {
     padding:  10px 20px;
     border-radius: 5px;
 }
+.postsList li .tags{
+    float: left;
+    margin-top: -28px;
+}
 
 .postsList {
     margin: 0px 0px 10px 0px;
@@ -453,6 +457,7 @@ span.label.label-important:hover {
     margin: 1em 0em 1em 0em;
     padding: 0.5em 1em;
     border-left: 3px solid #ff1700;
-    background-color: #f9f9f9;
+    background-color: #fff;
     list-style: none;
+    border-radius: 5px;
 }
