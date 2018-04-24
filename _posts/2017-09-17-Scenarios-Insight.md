@@ -38,7 +38,7 @@ published: true
 
   成员分3组，每组一个场景，站在十年之后往回看，识别关键事件
   
-  ![](/upload/image/The%20back-casting%20workshop.png)
+  ![](/upload/image/The%20back-casting%20workshop.png){:width="800px"}
   
 - Step 4：跟踪实施
 
