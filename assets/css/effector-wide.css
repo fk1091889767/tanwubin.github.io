@@ -460,6 +460,7 @@ span.label.label-important:hover {
     margin: 1em 0em 1em 0em;
     padding: 0.5em 1em;
     border-left: 3px solid #ff1700;
+    border-right: 3px solid #ff1700;
     background-color: #fff;
     list-style: none;
     border-radius: 5px;
