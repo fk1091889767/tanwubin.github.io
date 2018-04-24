@@ -2,11 +2,11 @@
 <div class="wrapper">
 <ul class="postsList">
 {% for post in site.posts limit: 15%}
-<li><span><img src="../../../upload/image/calendar.png" width="20px"/>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span>
+<li><span><i class="fa fa-calendar" aria-hidden="true"></i>{{ post.date | date: "%b %d, %Y" }}</span>
     <a href="{{ post.url }}" class="posttitle"><b>{{ post.title }}</b></a>
     {{ post.excerpt }}
     <br>
-    <span class="tags"><i class="fa fa-folder-open-o"></i>{{post.tags}}</span>
+    <span class="tags"><i class="fa fa-folder-open-o" aria-hidden="true"></i>{{post.tags}}</span>
     <span class="label label-important"><a href="{{ post.url }}"> <font color="white">阅读全文</font></a></span>
 </li><br>
 {% endfor %}
