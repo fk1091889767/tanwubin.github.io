@@ -5,7 +5,7 @@
 <li><span><img src="../../../upload/image/calendar.png" width="20px"/>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span>
     <a href="{{ post.url }}" class="posttitle"><b>{{ post.title }}</b></a>
     {{ post.excerpt }}
-    <span class="tags">{{page.tags}}</span>
+    <span class="tags">{{post.tags}}</span>
     <span class="label label-important"><a href="{{ post.url }}"> <font color="white">阅读全文</font></a></span>
 </li><br>
 {% endfor %}
