@@ -1,7 +1,7 @@
 markdown: kramdown
 kramdown:
   input: GFM
-# permalink: /:year/:month/:title
+permalink: /:year/:month/:title
 title: 东篱茶馆
 url: http://tanwubin.github.io
 subscribe: http://tanwubin.github.io/feed
@@ -12,7 +12,7 @@ email: brieftime@icloud.com
 safe: true
 excerpt_separator: "&nbsp;"
 highlight: true
-gems:
-  - jekyll-paginate
-paginate: 3
-paginate_path: "page:num"
+#gems:
+#  - jekyll-paginate
+#paginate: 5
+#paginate_path: "page:num"
