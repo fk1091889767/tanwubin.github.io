@@ -440,6 +440,11 @@ span.label.label-important:hover {
     background-color: #9aa6ea;*/
 }
 
+.postsList li .readall{
+    float: right;
+    margin-top: -28px;
+}
+
 .postsList {
     margin: 0px 0px 10px 0px;
 }
