@@ -31,7 +31,7 @@ published: true
 
 - 用商业模式新生代的一张图来理解
 
-![](/upload/image/商业模式.png)
+![](/upload/image/商业模式.png){:width="800px"}
 
 上图中价值主张及右边区域为市场，左边区域为行业，市场与行业共同构成了商业模式。
 
