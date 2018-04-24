@@ -52,7 +52,8 @@ body {
     /*font-size: 15px;*/
     line-height: 30px;
     color: #555;
-    background:url(https://tanwubin.github.io/upload/image/sand.png);
+    /*background:url(https://tanwubin.github.io/upload/image/sand.png);*/
+    background-color:#d8d8d8;
 }
 a {
     /*color: #F95B1F;*/
