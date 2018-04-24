@@ -1,7 +1,7 @@
 {% include themes/effector-wide/authorized.html %}
 <div class="wrapper">
 <ul class="postsList">
-<!--{% for post in site.posts limit: 15%}-->
+
 {% for post in paginator.posts %}
 <li><span><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span>
     <a href="{{ post.url }}" class="posttitle"><b>{{ post.title }}</b></a>
