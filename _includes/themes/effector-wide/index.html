@@ -2,7 +2,7 @@
 <div class="wrapper">
 <ul class="postsList">
 
-{% for post in site.posts offset:8 limit:8}
+{% for post in site.posts limit:10%}
 <li><span><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span>
     <a href="{{ post.url }}" class="posttitle"><b>{{ post.title }}</b></a>
     {{ post.excerpt }}
