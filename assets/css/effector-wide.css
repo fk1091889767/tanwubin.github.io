@@ -487,3 +487,8 @@ span.label.label-important:hover {
 .postdate {
     font-size: 10px;
 }
+
+.nav {
+    background-color: #e67d23;
+    text-align: center;
+}
