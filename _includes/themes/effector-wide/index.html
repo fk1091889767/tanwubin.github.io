@@ -2,7 +2,7 @@
 <div class="wrapper">
 <ul class="postsList">
 
-{% for post in site.posts limit: 15%}
+{% for post in site.posts limit: 10%}
 <li><span><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span>
     <a href="{{ post.url }}" class="posttitle"><b>{{ post.title }}</b></a>
     {{ post.excerpt }}
@@ -11,6 +11,9 @@
     {% for tag in post.tags %}
     <a class="labeltag label-important" href="/tag/#{{ tag }}">{{ tag }}</a>&nbsp;&nbsp;
     {% endfor %}
+    </span>
+    <span class="tags"><i class="fa fa-font" aria-hidden="true"></i>&nbsp;
+    <a class="labeltag label-important">字数-{{ page.content | number_of_words }}</a>&nbsp;&nbsp;
     </span>
     <span class="readall"><a class="label label-important" href="{{ post.url }}"> <font color="white">阅读全文</font></a></span>
 </li><br>
