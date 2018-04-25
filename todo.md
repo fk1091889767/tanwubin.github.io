@@ -52,6 +52,7 @@ permalink: /todo/
 <script>
 var gitment = new Gitment({
   // id: '', // 可选。默认为 location.href
+  id: '{{ page.title }}',
   owner: 'tanwubin',
   repo: 'tanwubin.github.io',
   oauth: {
