@@ -483,3 +483,7 @@ span.label.label-important:hover {
     list-style: none;
     border-radius: 5px;
 }
+
+.postdate {
+    font-size: 8px;
+}
