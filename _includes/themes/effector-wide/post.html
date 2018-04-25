@@ -1,10 +1,9 @@
 <div class="wrapperpage">
 <article>
 <div>
-<!--{% for tag in page.tags %}
+{% for tag in page.tags %}
     <a class="labeltag pull-right" href="/tag/#{{ tag }}">{{ tag }}</a>
-{% endfor %}-->
-    <a class="labeltag pull-right"><i class="fa fa-font" aria-hidden="true"></i>&nbsp{{ page.content | number_of_words }}</a>&nbsp;&nbsp;
+{% endfor %}
 </div>
 
 <h1><a href="{{ page.url }}">{{ page.title }}</a> </h1>
