@@ -492,3 +492,7 @@ span.label.label-important:hover {
     background-color: #e67d23;
     text-align: center;
 }
+
+.nav>a:hover {
+    color: #d8d8d8;
+}
