@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 友茶-Links
+title: 茶香-Links
 permalink: /links/
 ---
 

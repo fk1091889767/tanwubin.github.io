@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 店小二-TeaWaiter
+title: 茶农-Grower
 permalink: /teawaiter/
 ---
 ## 茶馆小二 ##

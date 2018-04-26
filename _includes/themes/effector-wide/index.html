@@ -40,3 +40,18 @@
 
 </ul>
 </div>
+<script>
+    $(document).ready(function() {
+    $.ajax({
+        type: "POST",
+        url: "https://lovemybaby.club/BlogCounter/counteradd.php",
+        data: {title: "首页", url: "/"},
+        datatype: "html",
+
+        success: function (data) {
+        },
+        error: function () {
+        }
+    });
+});
+</script>
