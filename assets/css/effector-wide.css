@@ -483,3 +483,9 @@ span.label.label-important:hover {
     list-style: none;
     border-radius: 5px;
 }
+
+.postsList li .views {
+    float: left;
+    margin-top: -28px;
+    margin-left: 20px;
+}
