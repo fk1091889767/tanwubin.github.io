@@ -10,8 +10,14 @@
     <span class="tags"><i class="fa fa-folder-open-o" aria-hidden="true"></i>&nbsp;
     {% for tag in post.tags %}
     <a class="labeltag label-important" href="/tag/#{{ tag }}">{{ tag }}</a>&nbsp;&nbsp;
+
+    <span class="views"><i class="fa fa-eye" aria-hidden="true"></i>
+    <a class="labeltag label-important"><div id="msg"></div></a>
+    </span>
+
     {% endfor %}
     </span>
+
 
     <span class="readall"><a class="label label-important" href="{{ post.url }}"> <font color="white">阅读全文</font></a></span>
 </li><br>
