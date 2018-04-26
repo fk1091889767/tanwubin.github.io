@@ -5,7 +5,7 @@ tags:
 - 计算机教程
 status: publish
 type: post
-published: true
+published: false
 ---
 - 启动
 
