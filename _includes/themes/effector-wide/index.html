@@ -16,7 +16,7 @@
         <script>
 
         </script>
-    <a class="labeltag label-important" id={{ post.id }}></a>
+    <a class="labeltag label-important" id={{ post.id | remove:'/' }}></a>
     </span>
     <script>
         $.ajax({
@@ -26,10 +26,10 @@
             datatype: "html",//"xml", "html", "script", "json", "jsonp", "text".
 
             success:function(data){
-                $("#{{post.id}}").html(data);
+                $("#{{post.id | remove:'/'}}").html(data);
             },
             error: function(){
-                $("#{{post.id}}").html(0);
+                $("#{{post.id | remove:'/'}}").html(0);
             }
         });
     </script>
