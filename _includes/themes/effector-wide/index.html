@@ -13,7 +13,10 @@
     {% endfor %}
     </span>
     <span class="views"><i class="fa fa-eye" aria-hidden="true"></i>
-    <a class="labeltag label-important" id="{{post.title}}"></a>
+        <script>
+            var id = "{{post.url}}".split("/")
+        </script>
+    <a class="labeltag label-important" id=id[3]></a>
     </span>
     <script>
         $.ajax({
@@ -23,10 +26,10 @@
             datatype: "html",//"xml", "html", "script", "json", "jsonp", "text".
 
             success:function(data){
-                $("#{{post.title}}").html(data);
+                $("#id[3]").html(data);
             },
             error: function(){
-                $("#{{post.title}}").html(0);
+                $("#id[3]").html(0);
             }
         });
     </script>
