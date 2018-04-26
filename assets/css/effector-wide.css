@@ -492,6 +492,7 @@ span.label.label-important:hover {
 .postsList li .views {
     float: left;
     margin-top: -28px;
+    margin-left: 10px;
 }
 
 .nav>a:hover {
