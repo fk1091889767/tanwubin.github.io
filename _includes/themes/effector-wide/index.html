@@ -25,7 +25,10 @@
             success:function(data){
                 $("#{{post.title}}").html(data);
             },
-            error: function(){
+            error: function(XMLHttpRequest, textStatus, errorThrown){
+                 alert(XMLHttpRequest.status);
+                 alert(XMLHttpRequest.readyState);
+                 alert(textStatus);
             }
         });
     </script>
