@@ -1,21 +1,13 @@
-$(document).ready(function(){
-        $.ajax({
-            //提交数据的类型 POST GET
+$.ajax({
             type:"POST",
-            //提交的网址
-            url:"http://47.95.224.248/BlogCounter/counterget.php",
-            //提交的数据
+            url:"https://lovemybaby.club/BlogCounter/counterget.php",
             data:{title:"{{ post.title }}",url:"{{ post.url }}"},
-            //返回数据的格式
             datatype: "html",//"xml", "html", "script", "json", "jsonp", "text".
 
             success:function(data){
-                //更新浏览数
-                $("#msg").html(data);
+                $("#{{post.id | remove:'/'}}").html(data);
             },
-            //调用出错执行的函数
             error: function(){
-                //请求出错处理
+                $("#{{post.id | remove:'/'}}").html(0);
             }
         });
-});
