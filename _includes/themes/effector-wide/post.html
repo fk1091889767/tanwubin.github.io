@@ -11,17 +11,19 @@
 {{ content }}
 </article>
 <script>
-$.ajax({
-            type:"POST",
-            url:"http://47.95.224.248/BlogCounter/counteradd.php",
-            data:{title:"{{ page.title }}",url:"{{ page.url }}"},
-            datatype: "html",//"xml", "html", "script", "json", "jsonp", "text".
+$(document).ready(function() {
+    $.ajax({
+        type: "POST",
+        url: "http://47.95.224.248/BlogCounter/counteradd.php",
+        data: {title: "{{ page.title }}", url: "{{ page.url }}"},
+        datatype: "html",
 
-            success:function(data){
-            },
-            error: function(){
-            }
-        });
+        success: function (data) {
+        },
+        error: function () {
+        }
+    });
+});
 </script>
 <div id="container"></div>
 
