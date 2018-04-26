@@ -26,10 +26,10 @@
             datatype: "html",//"xml", "html", "script", "json", "jsonp", "text".
 
             success:function(data){
-                $("#post.id").html(data);
+                $("#{{post.id}}").html(data);
             },
             error: function(){
-                $("#post.id").html(0);
+                $("#{{post.id}}").html(0);
             }
         });
     </script>
