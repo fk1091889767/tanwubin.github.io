@@ -492,3 +492,7 @@ span.label.label-important:hover {
     float: left;
     margin-top: -28px;
 }
+
+.nav>a:hover {
+    color: #000000;
+}
