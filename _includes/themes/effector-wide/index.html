@@ -14,11 +14,12 @@
     </span>
     <span class="views"><i class="fa fa-eye" aria-hidden="true"></i>
         <script>
-            var id = "{{post.url}}".split("/")
+
         </script>
     <a class="labeltag label-important" id=id[3]></a>
     </span>
     <script>
+        var id = "{{post.url}}".split("/");
         $.ajax({
             type:"POST",
             url:"https://lovemybaby.club/BlogCounter/counterget.php",
