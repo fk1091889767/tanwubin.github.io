@@ -13,7 +13,7 @@
     {% endfor %}
     </span>
     <span class="views"><i class="fa fa-eye" aria-hidden="true"></i>
-    <a class="labeltag label-important" id="{{post.url}}"></a>
+    <a class="labeltag label-important" id="{{post.title}}"></a>
     </span>
     <script>
         $.ajax({
@@ -23,10 +23,10 @@
             datatype: "html",//"xml", "html", "script", "json", "jsonp", "text".
 
             success:function(data){
-                $("#{{post.url}}").html(data);
+                $("#{{post.title}}").html(data);
             },
             error: function(){
-                $("#{{post.url}}").html(0);
+                $("#{{post.title}}").html(0);
             }
         });
     </script>
