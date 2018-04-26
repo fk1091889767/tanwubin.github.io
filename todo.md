@@ -45,6 +45,22 @@ permalink: /todo/
 
 - 2017.06.08 量化项目启动(Done)
 
+
+<script>
+    $(document).ready(function() {
+    $.ajax({
+        type: "POST",
+        url: "https://lovemybaby.club/BlogCounter/counteradd.php",
+        data: {title: "{{ page.title }}", url: "{{ page.url }}"},
+        datatype: "html",
+
+        success: function (data) {
+        },
+        error: function () {
+        }
+    });
+});
+</script>
 <div id="container"></div>
 
 <link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">

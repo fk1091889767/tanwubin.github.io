@@ -45,7 +45,23 @@ permalink: /teawaiter/
 - 邮件：brieftime@icloud.com
 
 - 留言(@tanwubin)：https://tanwubin.github.io/teawaiter/
- 
+
+
+<script>
+    $(document).ready(function() {
+    $.ajax({
+        type: "POST",
+        url: "https://lovemybaby.club/BlogCounter/counteradd.php",
+        data: {title: "{{ page.title }}", url: "{{ page.url }}"},
+        datatype: "html",
+
+        success: function (data) {
+        },
+        error: function () {
+        }
+    });
+});
+</script> 
 <div id="container"></div>
 
 <link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">

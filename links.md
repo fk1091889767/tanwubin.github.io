@@ -47,7 +47,23 @@ permalink: /links/
 - 亲子
 
   [宝妈俱乐部](http://lovemybaby.club)  
-  
+
+
+<script>
+    $(document).ready(function() {
+    $.ajax({
+        type: "POST",
+        url: "https://lovemybaby.club/BlogCounter/counteradd.php",
+        data: {title: "{{ page.title }}", url: "{{ page.url }}"},
+        datatype: "html",
+
+        success: function (data) {
+        },
+        error: function () {
+        }
+    });
+});
+</script>  
 <div id="container"></div>
 
 <link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">

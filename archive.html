@@ -18,7 +18,21 @@ permalink: /archive/
 <li><span><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+<script>
+    $(document).ready(function() {
+    $.ajax({
+        type: "POST",
+        url: "https://lovemybaby.club/BlogCounter/counteradd.php",
+        data: {title: "{{ page.title }}", url: "{{ page.url }}"},
+        datatype: "html",
 
+        success: function (data) {
+        },
+        error: function () {
+        }
+    });
+});
+</script>
 <div id="container"></div>
 
 <link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">

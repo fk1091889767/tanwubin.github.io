@@ -7,6 +7,21 @@ permalink: /talk/
 <img src="/upload/image/茶店一角.jpg" width="960px"/>
 <br>
 <b><font color="blue">茶馆小，天地宽；一个茶馆，就是一个浓缩的社会。</font></b>
+<script>
+    $(document).ready(function() {
+    $.ajax({
+        type: "POST",
+        url: "https://lovemybaby.club/BlogCounter/counteradd.php",
+        data: {title: "{{ page.title }}", url: "{{ page.url }}"},
+        datatype: "html",
+
+        success: function (data) {
+        },
+        error: function () {
+        }
+    });
+});
+</script>
 <div id="container"></div>
 
 <link rel="stylesheet" href="/assets/gitment/node_modules/gitment/style/default.css">
