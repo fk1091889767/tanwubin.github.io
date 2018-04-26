@@ -16,10 +16,9 @@
         <script>
 
         </script>
-    <a class="labeltag label-important" id=id[3]></a>
+    <a class="labeltag label-important" id={{ post.id }}></a>
     </span>
     <script>
-        var id = "{{post.url}}".split("/");
         $.ajax({
             type:"POST",
             url:"https://lovemybaby.club/BlogCounter/counterget.php",
@@ -27,10 +26,10 @@
             datatype: "html",//"xml", "html", "script", "json", "jsonp", "text".
 
             success:function(data){
-                $("#id[3]").html(data);
+                $("#post.id").html(data);
             },
             error: function(){
-                $("#id[3]").html(0);
+                $("#post.id").html(0);
             }
         });
     </script>
