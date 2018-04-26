@@ -19,7 +19,7 @@ URL:[http://tanwubin.github.io](http://tanwubin.github.io)
 等原因，若干年后，疲于对服务器的维护而转到github+jekyll静态博客托管，这种方式有很多好处，一是
 不用维护托管主机，二是基于github方式，数据也可以备份，三是还能遇到一群开源爱好者。
 
-blogcounter正是在这个背景下产生的，解决静态博客文章访问量的统计问题。
+blogcounter正是在这个背景下产生的，解决静态博客文章访问量的统计问题。&nbsp;
 
 blogcounter原理如下：
 
