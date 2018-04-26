@@ -14,9 +14,13 @@ footer, header, nav {
 footer {
     margin-top: -40px;
 }
+.nav {
+    background-color: #e67e22;
+    text-align: center;
+}
 .nav>a {
      margin:  0px 20px 0px 20px;
-     color: #000000;
+     color: #FFFFFF;
      font-weight: bold;
 }
 html {
