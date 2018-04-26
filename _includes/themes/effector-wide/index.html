@@ -25,10 +25,8 @@
             success:function(data){
                 $("#{{post.title}}").html(data);
             },
-            error: function(XMLHttpRequest, textStatus, errorThrown){
-                 alert(XMLHttpRequest.status);
-                 alert(XMLHttpRequest.readyState);
-                 alert(textStatus);
+            error: function(){
+
             }
         });
     </script>
