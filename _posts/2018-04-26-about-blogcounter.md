@@ -12,7 +12,9 @@ published: true
 
 URL:[http://tanwubin.github.io](http://tanwubin.github.io)
 
-项目地址：https://github.com/tanwubin/blogcounter
+项目地址：[https://github.com/tanwubin/blogcounter](https://github.com/tanwubin/blogcounter)
+
+当前版本：v0.1,已在本博客部署使用
 
 ## blogcounter介绍
 
