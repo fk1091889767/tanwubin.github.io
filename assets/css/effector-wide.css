@@ -502,4 +502,5 @@ span.label.label-important:hover {
 a.labeltag:hover {
     background-color: #F95B1F;
     text-decoration: none;
+    color: white;
 }
