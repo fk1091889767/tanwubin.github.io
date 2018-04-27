@@ -498,3 +498,8 @@ span.label.label-important:hover {
 .nav>a:hover {
     color: #000000;
 }
+
+a.labeltag:hover {
+    background-color: #F95B1F;
+    text-decoration: none;
+}
