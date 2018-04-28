@@ -8,7 +8,7 @@
         {% continue %}
     {% endif %}
     <li><span><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span>
-    <a href="{{ post.url }}" class="posttitle"><b>{{ post.title }}</b></a>
+    <a href="{{ post.url }}" class="posttitle"><b>[置顶<i class="fa fa-thumbs-o-up" style="color:red;"></i>]{{ post.title }}</b></a>
     {{ post.excerpt }}
     <br>
     <span class="tags"><i class="fa fa-folder-open-o" aria-hidden="true"></i>&nbsp;
@@ -44,7 +44,7 @@
         {% continue %}
     {% endif %}
 <li><span><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span>
-    <a href="{{ post.url }}" class="posttitle"><b>[置顶<i class="fa fa-thumbs-o-up" style="color:red;"></i>]{{ post.title }}</b></a>
+    <a href="{{ post.url }}" class="posttitle"><b>{{ post.title }}</b></a>
     {{ post.excerpt }}
     <br>
     <span class="tags"><i class="fa fa-folder-open-o" aria-hidden="true"></i>&nbsp;
