@@ -71,7 +71,7 @@ $passWord = "root";
 
 将pagecounterget.js拷贝到index.html，如下图，url根据自身情况适配
 
-<img src="https://tanwubin.github.io/upload/image/blogcounter-index-1.png" />
+<img src="https://tanwubin.github.io/upload/image/blogcounter-index-1.png" width="800px" />
 
 2.2 博文页部署
 
@@ -86,4 +86,4 @@ $passWord = "root";
 
 ## 统计效果
 
-<img src="https://tanwubin.github.io/upload/image/blogcounter-mysql.png" />             
+<img src="https://tanwubin.github.io/upload/image/blogcounter-mysql.png" width="800px" />             
