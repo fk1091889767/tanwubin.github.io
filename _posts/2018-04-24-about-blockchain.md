@@ -7,7 +7,7 @@ tags:
 status: publish
 type: post
 published: true
-top: true
+top: false
 ---
 区块链到现在还是很火，但随着不同应用层面公司的碰壁，比如一些挖矿公司的倒闭，以及国内政策的影响，技术也在
 逐渐降温，回归商业理性。&nbsp;
