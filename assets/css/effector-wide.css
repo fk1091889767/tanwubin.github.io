@@ -17,7 +17,7 @@ footer {
 .nav {
     background-color: #e67e22;
     text-align: center;
-    width: 100%;
+    min-width: 1000px;
 }
 .nav>a {
      margin:  0px 20px 0px 20px;
