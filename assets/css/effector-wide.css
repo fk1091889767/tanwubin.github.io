@@ -496,7 +496,7 @@ span.label.label-important:hover {
 }
 
 .nav>a:hover {
-    color: #000000;
+    /*color: #000000;*/
 }
 
 a.labeltag:hover {
