@@ -43,7 +43,7 @@
     {% if post.top == true %}
         {% continue %}
     {% endif %}
-<li><span><i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span>
+<li><span class="hvr-icon-push"><i class="fa fa-calendar hvr-icon" aria-hidden="true"></i>&nbsp;{{ post.date | date: "%b %d, %Y" }}</span>
     <a href="{{ post.url }}" class="posttitle"><b>{{ post.title }}</b></a>
     {{ post.excerpt }}
     <br>
