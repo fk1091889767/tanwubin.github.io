@@ -7,6 +7,8 @@ permalink: /todo/
 
 ## 最近在干嘛 #
 
+- 2018.5.2 Logic Pro X 学习 & Macbook以旧换新
+
 - 2018.5.1 Arduino自动浇花场景分析
 
 - 2018.5.1  《国际商法》、《富爸爸、穷爸爸》阅读（备注：国际商法英文版本：[International Business Law-Text,Cases and Readings](http://law.uibe.edu.cn/upload/editor/file/20160307/20160307101953_0468.pdf)）
