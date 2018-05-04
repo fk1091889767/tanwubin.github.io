@@ -3,7 +3,7 @@ layout: page
 title: 茶农-Grower
 permalink: /teawaiter/
 ---
-![](/upload/image/tanwubin.github.io.jpg)
+![](/upload/image/tanwubin.github.io.jpg){:width="950px"}
 
 ## 茶馆小二 ##
 
