@@ -3,6 +3,8 @@ layout: page
 title: 茶农-Grower
 permalink: /teawaiter/
 ---
+![](/upload/image/tanwubin.github.io.jpg)
+
 ## 茶馆小二 ##
 
 - 2013年从西安电子科技大学毕业，至今工作于华为
