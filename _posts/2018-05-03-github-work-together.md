@@ -9,7 +9,6 @@ type: post
 published: true
 top: false
 ---
-
 问题描述： 当我们 在github上fork出一个项目后，如果原有的项目更新了，怎样保持我们fork出来的项目和原有项目保持同步呢，并提交我们的代码呢？&nbsp;
 
 1. 首先添加你从github上fork的源仓库到本地的git工程
