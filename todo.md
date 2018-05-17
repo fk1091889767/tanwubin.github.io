@@ -7,6 +7,8 @@ permalink: /todo/
 
 ## 最近在干嘛 #
 
+- 2018.5.17 Python Int对象内部机制研究(Done)
+
 - 2018.5.2 Logic Pro X 学习 & Macbook以旧换新
 
 - 2018.5.1 Arduino自动浇花场景分析
