@@ -2,8 +2,8 @@
 layout: post
 title: 图数据库-目录
 tags: 
-- 开源
-- GitHub
+- 图数据库
+- Graph Database
 status: publish
 type: post
 published: true
