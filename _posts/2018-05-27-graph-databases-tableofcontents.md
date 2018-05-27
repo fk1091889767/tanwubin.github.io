@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 图数据库
+title: 图数据库-目录
 tags: 
 - 开源
 - GitHub
@@ -10,7 +10,7 @@ published: true
 top: false
 ---
 
-- 推荐序
+- 序言
 
 - 写在前面
 
