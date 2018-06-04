@@ -10,7 +10,7 @@ published: true
 top: false
 ---
 
-- 语法高亮，自动缩进，对齐（linux下通用）
+语法高亮，自动缩进，对齐（linux下通用）
 
 step 1
 
