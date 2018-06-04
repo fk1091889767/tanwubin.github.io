@@ -10,33 +10,27 @@ published: true
 top: false
 ---
 
-#### 语法高亮，自动缩进，对齐（linux下通用）
+- 语法高亮，自动缩进，对齐（linux下通用）
 
-##### step 1
+step 1
 
 ````
-
 cd ~
-
 ````
 &nbsp;
-##### step 2
+step 2
 
 ````
-
 vim .vimrc
-
 ````
 
-##### step 3
+step 3
 
 ````
-
 syntax on 
 set number
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
 set expandtab
-
 ````
