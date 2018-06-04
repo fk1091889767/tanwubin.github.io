@@ -18,7 +18,6 @@ top: false
 cd ~
 ````
 &nbsp;
-
 - step 2
 
 ````
