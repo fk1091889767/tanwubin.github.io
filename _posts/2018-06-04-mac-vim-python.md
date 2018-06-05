@@ -10,14 +10,14 @@ published: true
 top: false
 ---
 
-语法高亮，自动缩进，对齐（linux下通用）
+语法高亮，自动缩进，对齐（linux下通用）&nbsp;
 
 - step 1
 
 ````
 cd ~
 ````
-&nbsp;
+
 - step 2
 
 ````
