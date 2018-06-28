@@ -7,6 +7,8 @@ permalink: /todo/
 
 ## 最近在干嘛 #
 
+- 2018.6.28 Flask大规模商用部署方案(ToDo)
+
 - 2018.5.17 Python Int对象内部机制研究(Done)
 
 - 2018.5.2 Logic Pro X 学习 & Macbook以旧换新
