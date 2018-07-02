@@ -15,7 +15,7 @@ top: false
 
 工厂方法模式：
 
-![](/upload/image/factoryfunction.png)
+![](/upload/image/factoryfunction.png){:width="950px"}
 
 抽象工厂与工厂方法类似，这里不再列出。&nbsp;
 
