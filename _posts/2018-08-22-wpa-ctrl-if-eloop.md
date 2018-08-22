@@ -11,7 +11,7 @@ top: false
 
 下图为wpa的模块图，核心为eloop机制，这里记录一些配置维护的eloop是如何注册的。
 
-![](/upload/image/_wpa_supplicant.png) &nbsp;
+![](/upload/image/wpa_supplicant.png) &nbsp;
 
 函数调用关系：
 
