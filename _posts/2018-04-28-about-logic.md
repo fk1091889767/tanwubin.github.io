@@ -7,7 +7,7 @@ tags:
 status: publish
 type: post
 published: true
-top: true
+top: false
 ---
 
 在生活和工作中，自己会碰到各种各样的决策，以及基于决策后的实施。有的实施后效果很明显，有的实施后不及预期，这个时候就在想这样的问题：能否在
