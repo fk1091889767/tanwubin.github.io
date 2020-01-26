@@ -46,14 +46,14 @@ permalink: /links/
   
 - 亲子
 
-  [宝妈俱乐部](http://lovemybaby.club)  
+  [宝妈俱乐部](http://cardbang.com)  
 
 
 <script>
     $(document).ready(function() {
     $.ajax({
         type: "POST",
-        url: "https://lovemybaby.club/BlogCounter/counteradd.php",
+        url: "https://cardbang.com/BlogCounter/counteradd.php",
         data: {title: "{{ page.title }}", url: "{{ page.url }}"},
         datatype: "html",
 
