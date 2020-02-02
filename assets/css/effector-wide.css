@@ -65,7 +65,7 @@ body {
 a {
     /*color: #F95B1F;*/
     /*color: #000000;*/
-    color: #952f00;;
+    color: #2f9386;
     text-decoration: none;
 }
 a:hover {
@@ -370,7 +370,7 @@ hr.style-one {
     /*font-weight: bold;*/
     color: #fff;
     text-transform: uppercase;
-    background-color: #ab662d;
+    background-color: #2f9386;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
@@ -383,7 +383,7 @@ hr.style-one {
     /*font-weight: bold;*/
     color: #fff;
     /*text-transform: uppercase;*/
-    background-color: #ab672c;
+    background-color: #2f9386;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
@@ -484,8 +484,8 @@ span.label.label-important:hover {
 .post-copyright {
     margin: 1em 0em 1em 0em;
     padding: 0.5em 1em;
-    border-left: 3px solid #ff1700;
-    border-right: 3px solid #ff1700;
+    border-left: 3px solid #2f9386;
+    border-right: 3px solid #2f9386;
     background-color: #fff;
     list-style: none;
     border-radius: 5px;
