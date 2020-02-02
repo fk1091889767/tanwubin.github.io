@@ -15,12 +15,14 @@ footer {
     margin-top: -40px;
 }
 .nav {
-    background-color: #e67e22;
+    /*background-color: #e67e22;*/
+    background-color: #2f9386;
     text-align: center;
     min-width: 1000px;
+    min-height: 200px;
 }
 .nav>a {
-     margin:  0px 20px 0px 20px;
+     margin:  90px 20px 0px 20px;
      color: #FFFFFF;
      font-weight: bold;
 }
