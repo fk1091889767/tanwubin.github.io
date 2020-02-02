@@ -20,6 +20,7 @@ footer {
     text-align: center;
     min-width: 1000px;
     min-height: 100px;
+    background: url(https://tanwubin.github.io/upload/image/mountains.jpg) repeat 100% 100%;
 }
 .nav>a {
      margin:  40px 20px 0px 20px;
