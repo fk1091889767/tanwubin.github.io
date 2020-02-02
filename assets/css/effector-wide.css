@@ -19,10 +19,10 @@ footer {
     background-color: #2f9386;
     text-align: center;
     min-width: 1000px;
-    min-height: 200px;
+    min-height: 100px;
 }
 .nav>a {
-     margin:  90px 20px 0px 20px;
+     margin:  40px 20px 0px 20px;
      color: #FFFFFF;
      font-weight: bold;
 }
@@ -116,7 +116,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 }
 h1 {
     line-height: 60px;
-    color:	#0000FF;
+    color:	#2f9386;
     font-size: 18px;
     font-weight: bold;
 }
